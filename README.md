@@ -1,5 +1,8 @@
 # todolist
 
+### todo
+`config.php` aanmaken (zonder werkt de database niet)
+
 ## warning
 this is just a personal project expect issues! \
 `(if using laragon please clone it to your root for ease)`

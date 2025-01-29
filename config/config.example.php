@@ -2,6 +2,7 @@
 // ieder voor zich de echte config staat als gitignore
 // dont delete
 // maak je eige en hernoem hem naar "config.php"
+//todo config.php aanmaken
 
 $dbhost = "localhost"; //kan ook iets anders zijn zoals ip bijvoorbeeld: (127.0.0.1)
 $dbname = ""; //required
