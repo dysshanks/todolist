@@ -6,5 +6,10 @@
 </head>
 <body>
     <?php require_once"recources/views/components/header.php";?>
+    <main>
+        <div class="wrapper">
+
+        </div>
+    </main>
 </body>
 </html>
