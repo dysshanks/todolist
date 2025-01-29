@@ -5,7 +5,9 @@
     <title>Home</title>
 </head>
 <body>
-    <?php require_once"recources/views/components/header.php";?>
+    <header>
+        <?php require_once"recources/views/components/header.php";?>
+    </header>
     <main>
         <div class="wrapper">
 
