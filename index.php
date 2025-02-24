@@ -5,13 +5,14 @@
     <title>Home</title>
 </head>
 <body>
-    <header>
-        <?php require_once"recources/views/components/header.php";?>
-    </header>
-    <main>
-        <div class="wrapper">
+<header>
+    <?php require_once"recources/views/components/header.php";?>
+</header>
+<main>
+    <div class="wrapper">
 
-        </div>
-    </main>
+    </div>
+</main>
+<?php require_once"recources/views/components/footer.php";?>
 </body>
 </html>

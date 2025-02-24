@@ -1,4 +1,6 @@
 # todolist
+![icon](public_html/img/icons/favicon.ico)
+
 
 ### todo
 `config.php` aanmaken (zonder werkt de database niet.)
